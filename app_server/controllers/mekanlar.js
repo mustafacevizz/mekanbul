@@ -1,6 +1,6 @@
 const axios = require("axios");
 var apiSecenekleri={
-    sunucu:"http://localhost:3000",
+    sunucu:"https://mekanbul.mustafacevizz72.repl.co/?enlem=37&boylam=35",
     apiYolu:"/api/mekanlar/",
 };
 var mesafeyiFormatla=function(mesafe){
